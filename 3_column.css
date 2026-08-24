@@ -1,0 +1,32 @@
+body{
+	background: linear-gradient(rgb(90,100,800),rgb(100,100,100));
+	width:100vw;
+	margin:0px
+}
+
+#central{
+	background-color:(250,255,254);
+	width: 60vw;
+	margin-left:20vw;
+	margin-right:20vw;
+	margin-top:0px;
+	margin-bottom:0px;
+	padding:0px;
+}
+
+#title{
+	text-align:center;
+	color:black;
+	font-size:10em;
+	width:70vw;
+	margin-left:15vw;
+	margin-right:15vw;
+	margin-top: 2vh;
+	margin-bottom:2vh;
+	background-color:pink;
+	height:15
+
+#content{
+	width:100%;
+	margin:0px;
+}
